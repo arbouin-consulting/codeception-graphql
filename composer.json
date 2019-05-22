@@ -1,11 +1,11 @@
 {
-    "name": "xaddax/codeception-graphql",
+    "name": "arcons/codeception-graphql",
     "description": "GraphQL extension for Codeception",
     "keywords": ["codeception", "graphql"],
     "minimum-stability": "stable",
     "license": "MIT",
     "require": {
-        "codeception/codeception": "^2.1",
+        "codeception/codeception": "^3.0",
         "euautomation/graphql-client": "0.2",
         "php": ">=7.1"
     },
